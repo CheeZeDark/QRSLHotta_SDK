@@ -1,2 +1,2 @@
 # QRSLHotta_SDK
-QRSLHotta_SDK by CheeZeDark(Rikko Matsumato)
+It will be only Python and CMake Scripts for Creating SDK for Game Tower of Fantasy(WIP)!!!
